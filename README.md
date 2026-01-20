@@ -1,2 +1,4 @@
-# Lưu các bài tập thực hành.
+# **Họ Tên:** Võ Lê Gia Bảo
+
+# **MSSV:** 65130217
 
